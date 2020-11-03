@@ -14,7 +14,9 @@
 
 ## Timetable
 
-**Topic of the moment:** What is clustering?
+**Topic of the moment:** What is clustering? 
+
+**Background:** Clustering is an ill-defined problem. Broadly, we want to identify groups of "similar" objects but how many groups? How do we measure similarity? Likely how we define and implement this is specific to each individual problem/application but are there generalities we can identify? Also, what about unusual clustering problems like picking up rare sub-populations? What about interpretability of clusters? Linking clusters to external validation data? 
 
 
 | **Date/Time** | **Paper** | **Introducer** |
