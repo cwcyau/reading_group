@@ -18,3 +18,7 @@ More advanced:
 - [Variational Autoencoders](https://arxiv.org/abs/1606.05908)
 - [Attention mechanisms](https://buomsoo-kim.github.io/attention/2020/01/01/Attention-mechanism-1.md/)
 - [Transformers](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+
+## Key Points
+
+to be completed
