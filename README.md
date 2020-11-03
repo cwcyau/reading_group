@@ -23,7 +23,7 @@
 
 **Background:** Clustering is an ill-defined problem. Broadly, we want to identify groups of "similar" objects but how many groups? How do we measure similarity? Likely how we define and implement this is specific to each individual problem/application but are there generalities we can identify? Also, what about unusual clustering problems like picking up rare sub-populations? What about interpretability of clusters? Linking clusters to external validation data? 
 
-**Papers:** Papers can be from the past or recent literature or work in progress of your own. The main constraint is that it should be methodologically-focused.
+**Papers:** Papers can be from the past or recent literature or work in progress of your own. Pure methodology? application inspired? The main constraint is that it should be methodologically-focused.
 
 | **Date/Time** | **Paper(s)** | **Introducer** | **Introducer 2** |
 | ------------- | ------------ | -------------- | ---------------- |
