@@ -5,7 +5,8 @@
 **Pre-requisites:** 
 
 1. Read the paper (that includes yourself Chris Yau).
-2. Read related references if you are unfamiliar with the material (this is called "human learning")
+2. Read related references if you are unfamiliar with the material (this is called "human learning").
+3. This is probably going to be hard, technical stuff, don't worry if you don't get it all.
 
 **Format:** 
 
