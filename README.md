@@ -9,7 +9,7 @@
 3. This is probably going to be hard, technical stuff, don't worry if you don't get it all.
 4. We could use Jamboard or you will need a pen and paper and the ability to turn your camera toward your piece of paper.
 
-*Newcomers:* It is not expected that everyone will be active participants. For newcomers to the field, these meetings may feel somewhat intimidating, however, research is continually evolving and the best strategy is simply to jump straight in! Even if the only things you get out of a reading group are a couple of terms to look up on Google, this is a win!  
+*Newcomers:* It is not expected that everyone will be active participants in these reading groups. For newcomers to the field, these meetings may feel somewhat intimidating because of the technical level of the discussion, however, research is continually evolving and the best strategy is sometimes to dive straight in! Even if the only things you get out of a reading group are a couple of terms to look up on Google later, this is potentially a win!  
 
 **Format:** 
 
