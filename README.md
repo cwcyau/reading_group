@@ -7,7 +7,10 @@
 1. Read the f00king paper (that includes yourself Chris Yau).
 2. Read related references if you are unfamiliar with the material (this is called "human learning")
 
-Format (max) 30 minute introduction
+**Format:** 
+
+- (max) 30 minute introduction
+- (at least) 30 minute random discussions
 
 ## Timetable
 
