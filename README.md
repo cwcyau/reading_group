@@ -14,11 +14,15 @@
 
 ## Timetable
 
+**Topic of the moment:** What is clustering?
+
+
 | **Date/Time** | **Paper** | **Introducer** |
 | ------------- | --------- | -------------- |
 | tbc | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | (Dr when he actually graduates) Kaspar "The King of AISTATS" Maertens |
 | tbc | tbc | Lord Campbell |
 | tbc | tbc | Dominic Danks |
 | tbc | tbc | Fabian Falck |
+| tbc | tbc | Sam Ip |
 | tbc | tbc | Woojung Kim |
 | tbc | tbc | Haoting Zhang |
