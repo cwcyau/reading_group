@@ -4,7 +4,7 @@
 
 **Pre-requisites:** 
 
-1. Read the f00king paper (that includes yourself Chris Yau).
+1. Read the paper (that includes yourself Chris Yau).
 2. Read related references if you are unfamiliar with the material (this is called "human learning")
 
 **Format:** 
