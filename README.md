@@ -28,9 +28,9 @@
 
 **Papers:** Papers can be from the past or recent literature or work in progress of your own. Pure methodology? application inspired? The main constraint is that it should be methodologically-focused.
 
-| **Date/Time** | **Paper(s)** | **Introducer** | **Introducer 2** |
-| ------------- | ------------ | -------------- | ---------------- |
-| tbc | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | (Dr when he actually graduates) Kaspar "The King of AISTATS" Maertens |  tbc |
+| **Date/Time** | **Paper(s)** | **Introducer** | **Introducer 2** | Link |
+| ------------- | ------------ | -------------- | ---------------- | ---- | 
+| tbc | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | (Dr when he actually graduates) Kaspar "The King of AISTATS" Maertens |  tbc | [Link](attentive_clustering.md) |
 | tbc | tbc | Lord Campbell | tbc |
 | tbc | tbc | Dominic Danks | tbc |
 | tbc | tbc | Fabian Falck | tbc |
