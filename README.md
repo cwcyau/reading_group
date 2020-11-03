@@ -5,9 +5,11 @@
 **Pre-requisites:** 
 
 1. Read the paper (that includes yourself Chris Yau).
-2. Read related references if you are unfamiliar with the material (this is called "human learning").
-3. This is probably going to be hard, technical stuff, don't worry if you don't get it all ("wing it").
+2. Read related references if you are unfamiliar with the material.
+3. This is probably going to be hard, technical stuff, don't worry if you don't get it all.
 4. We could use Jamboard or you will need a pen and paper and the ability to turn your camera toward your piece of paper.
+
+*Newcomers:* It is not expected that everyone will be active participants. For newcomers to the field, these meetings may feel somewhat intimidating, however, research is continually evolving and the best strategy is simply to jump straight in! Even if the only things you get out of a reading group are a couple of terms to look up on Google, this is a win!  
 
 **Format:** 
 
