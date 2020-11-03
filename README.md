@@ -6,7 +6,7 @@
 
 1. Read the paper (that includes yourself Chris Yau).
 2. Read related references if you are unfamiliar with the material (this is called "human learning").
-3. This is probably going to be hard, technical stuff, don't worry if you don't get it all.
+3. This is probably going to be hard, technical stuff, don't worry if you don't get it all ("wing it").
 4. We could use Jamboard or you will need a pen and paper and the ability to turn your camera toward your piece of paper.
 
 **Format:** 
