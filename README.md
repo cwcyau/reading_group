@@ -16,7 +16,7 @@
 - we will use a dual introducer model: 
   - one describes the paper, the techniques and its main findings, 
   - the second focuses on benefits/weaknesses and opportunities for further development.
-
+  
 ## Timetable
 
 **Topic of the moment:** What is clustering? 
