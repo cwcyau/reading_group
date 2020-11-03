@@ -12,7 +12,9 @@
 
 - (max) 30 minute introduction
 - (at least) 30 minute random discussions
-- we will use a dual introducer model: one describes the paper, the techniques and its main findings, the second focuses on benefits/weaknesses and opportunities for further development.
+- we will use a dual introducer model: 
+  - one describes the paper, the techniques and its main findings, 
+  - the second focuses on benefits/weaknesses and opportunities for further development.
 
 ## Timetable
 
