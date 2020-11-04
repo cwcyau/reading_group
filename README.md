@@ -30,7 +30,7 @@
 
 | **Date/Time** | **Paper(s)** | **Introducer** | **Introducer 2** | Link |
 | ------------- | ------------ | -------------- | ---------------- | ---- | 
-| tbc | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | (Dr when he actually graduates) Kaspar "The King of AISTATS" Maertens | Dominic Danks | [Link](attentive_clustering.md) |
+| 13/11/2020 | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | (Dr when he actually graduates) Kaspar "The King of AISTATS" Maertens | Dominic Danks | [Link](attentive_clustering.md) |
 | tbc | tbc | Lord Campbell | tbc |
 | tbc | tbc | Dominic Danks | tbc |
 | tbc | tbc | Fabian Falck | tbc |
