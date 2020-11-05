@@ -4,6 +4,8 @@ URL: [https://arxiv.org/pdf/2010.15727.pdf](https://arxiv.org/pdf/2010.15727.pdf
 
 ## Things to know about
 
+Background knowledge and additional reading material linked to this paper. 
+
 Basics:
 
 - [Latent variable models](https://www.youtube.com/watch?v=7Pcvdo4EJeo&ab_channel=DeepMind)
