@@ -28,12 +28,12 @@
 
 **Papers:** Papers can be from the past or recent literature or work in progress of your own. Pure methodology? application inspired? The main constraint is that it should be methodologically-focused.
 
-| **Date/Time** | **Paper(s)** | **Introducer** | **Introducer 2** | Link |
-| ------------- | ------------ | -------------- | ---------------- | ---- | 
-| 13/11/2020, 09:30-11:00 | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | (Dr when he actually graduates) Kaspar "The King of AISTATS" Maertens | Dominic Danks | [Link](attentive_clustering.md) |
-| tbc | tbc | Lord Campbell | tbc |
-| tbc | tbc | Dominic Danks | tbc |
-| tbc | tbc | Fabian Falck | tbc |
-| tbc | tbc | Sam Ip | tbc |
-| tbc | tbc | Woojung Kim | tbc |
-| tbc | tbc | Haoting Zhang | tbc |
+| **Date** | **Time** | **Paper(s)** | **Introducer** | **Introducer 2** | Link |
+| ---------| -------- | ------------ | -------------- | ---------------- | ---- | 
+| 13/11/2020 | 09:30-11:00 | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | Kaspar Maertens | Dominic Danks | [Link](attentive_clustering.md) |
+| tbc | tbc | tbc | Lord Campbell | tbc |
+| tbc | tbc | tbc | Dominic Danks | tbc |
+| tbc | tbc | tbc | Fabian Falck | tbc |
+| tbc | tbc | tbc | Sam Ip | tbc |
+| tbc | tbc | tbc | Woojung Kim | tbc |
+| tbc | tbc | tbc | Haoting Zhang | tbc |
