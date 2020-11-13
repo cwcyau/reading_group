@@ -13,12 +13,17 @@
 
 **Format:** 
 
+- one person who will chair the meeting
 - (max) 30 minute paper introductions
 - (at least) 30 minute random discussions
 - we will use a dual introducer model: 
   - one describes the paper, the techniques and its main findings, 
   - the second focuses on clarifications/benefits/weaknesses/opportunities for further development,
   - it might be useful to coordinate with your co-introducer beforehand.
+- ask questions/make comments (there are *no stupid questions*)
+- depending on numbers, raise your hand, and wait for Chair before speaking
+- determine topics and volunteers to introduce next paper
+- reading groups will be biweekly
   
 ## Timetable
 
@@ -37,3 +42,4 @@
 | tbc | tbc | tbc | Sam Ip | tbc |
 | tbc | tbc | tbc | Woojung Kim | tbc |
 | tbc | tbc | tbc | Haoting Zhang | tbc |
+
