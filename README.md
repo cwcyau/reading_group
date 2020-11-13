@@ -14,8 +14,8 @@
 **Format:** 
 
 - one person who will chair the meeting
-- (max) 30 minute paper introductions
-- (at least) 30 minute random discussions
+- (max) 30 minute paper introductions (recorded - with permission)
+- (at least) 30 minute random discussions (not recorded)
 - we will use a dual introducer model: 
   - one describes the paper, the techniques and its main findings, 
   - the second focuses on clarifications/benefits/weaknesses/opportunities for further development,
