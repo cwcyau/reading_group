@@ -19,7 +19,7 @@
 - we will use a dual introducer model: 
   - one describes the paper, the techniques and its main findings, 
   - the second focuses on clarifications/benefits/weaknesses/opportunities for further development,
-  - it might be useful to coordinate with your co-introducer beforehand.
+  - it might be useful to coordinate with your co-introducer beforehand (good opportunity to work with someone new).
 - ask questions/make comments (there are *no stupid questions*)
 - depending on numbers, raise your hand, and wait for Chair before speaking
 - determine topics and volunteers to introduce next paper
