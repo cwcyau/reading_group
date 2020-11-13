@@ -1,4 +1,4 @@
-# UK Lockdown Machine Learning Reading Group
+# Machine Learning Reading Group
 
 ## Instructions
 
