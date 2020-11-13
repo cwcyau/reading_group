@@ -23,4 +23,7 @@ Background knowledge and additional reading material linked to this paper.
 
 ## Key Points
 
-[Google Doc](https://docs.google.com/document/d/1JOQ2ypt1N5rYj_nISma-10wfGGVpk000WQXuo6-PMh0/edit?usp=sharing)
+[Introduction I](files/attentive_clustering_processes.pdf)
+
+[Introduction II](files/attentive_clustering_processes_intro2.pdf)
+
