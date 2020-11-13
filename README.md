@@ -20,7 +20,11 @@
   - one describes the paper, the techniques and its main findings, 
   - the second focuses on clarifications/benefits/weaknesses/opportunities for further development,
   - it might be useful to coordinate with your co-introducer beforehand (good opportunity to work with someone new).
-- ask questions/make comments (there are *no stupid questions*)
+- ask questions/make comments (there are *no stupid questions*), these sessions are only as interactive as you make them
+  - e.g. can you explain more how XXX works?
+  - e.g. what is XXX?
+  - e.g. I work on XXX and I think YYY could be used here
+  - e.g. this approach is rubbish because of XXX
 - depending on numbers, raise your hand, and wait for Chair before speaking
 - determine topics and volunteers to introduce next paper
 - reading groups will be biweekly
