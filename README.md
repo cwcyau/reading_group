@@ -40,7 +40,7 @@
 | **Date** | **Time** | **Paper(s)** | **Introducer** | **Introducer 2** | Link |
 | ---------| -------- | ------------ | -------------- | ---------------- | ---- | 
 | 13/11/2020 | 09:30-11:00 | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | Kaspar Maertens | Dominic Danks | [Link](attentive_clustering.md) |
-| 27/11/2020 | tbc | [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](https://arxiv.org/abs/2006.08600) | Lord Campbell | [Link](temporal_clustering.md) |
+| 27/11/2020 | tbc | [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](https://arxiv.org/abs/2006.08600) | Lord Campbell | Master Yau | [Link](temporal_clustering.md) |
 | tbc | tbc | tbc | Dominic Danks | tbc |
 | tbc | tbc | tbc | Fabian Falck | tbc |
 | tbc | tbc | tbc | Sam Ip | tbc |
