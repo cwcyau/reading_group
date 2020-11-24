@@ -41,7 +41,8 @@
 | ---------| -------- | ------------ | -------------- | ---------------- | ---- | 
 | 13/11/2020 | 09:30-11:00 | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | Kaspar Maertens | Dominic Danks | [Link](attentive_clustering.md) |
 | 27/11/2020 | 19:00-20:00 | [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](https://arxiv.org/abs/2006.08600) | Lord Campbell | Master Yau | [Link](temporal_clustering.md) |
-| 14/12/2020 (tbc) | tbc | [Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering](https://www.ijcai.org/Proceedings/2017/273) | Fabian Falck/Haoting Zhang | Alex Jenkins | [Link](variational_deep.md) |
+| 14/12/2020 (tbc) | tbc | [Unsupervised Deep Embedding for Clustering Analysis](link: http://proceedings.mlr.press/v48/xieb16.pdf)
+ and [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](link: http://proceedings.mlr.press/v70/yang17b/yang17b.pdf) | Fabian Falck/Haoting Zhang | Alex Jenkins | [Link](variational_deep.md) |
 | tbc | tbc | tbc | Fabian Falck | tbc |
 | tbc | tbc | tbc | Sam Ip | tbc |
 | tbc | tbc | tbc | Woojung Kim | tbc |
