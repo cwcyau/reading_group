@@ -40,10 +40,7 @@
 | **Date** | **Time** | **Paper(s)** | **Introducer** | **Introducer 2** | Link |
 | ---------| -------- | ------------ | -------------- | ---------------- | ---- | 
 | 13/11/2020 | 09:30-11:00 | [Attentive Clustering Processes](https://arxiv.org/pdf/2010.15727.pdf) | Kaspar Maertens | Dominic Danks | [Link](attentive_clustering.md) |
+| 14/12/2020 | 14:00-15:00 | [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf) and [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](http://proceedings.mlr.press/v70/yang17b/yang17b.pdf) | Fabian Falck | Haoting Zhang | [Link](variational_deep.md) |
 | tbc | tbc | [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](https://arxiv.org/abs/2006.08600) | Lord Campbell | Master Yau | [Link](temporal_clustering.md) |
-| 14/12/2020 (tbc) | tbc | [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf) and [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](http://proceedings.mlr.press/v70/yang17b/yang17b.pdf) | Fabian Falck | Haoting Zhang | [Link](variational_deep.md) |
-| tbc | tbc | tbc | Fabian Falck | tbc |
-| tbc | tbc | tbc | Sam Ip | tbc |
-| tbc | tbc | tbc | Woojung Kim | tbc |
-| tbc | tbc | tbc | Haoting Zhang | tbc |
+
 
